@@ -13,4 +13,4 @@ ___
 
 ***[Ссылка на документацию проекта](https://restful-booker.herokuapp.com/apidoc/#api-Auth-CreateToken)***
 
-***[Ссылка на гугл-таблицу с чек-листами](https:///docs.google.com/spreadsheets/d/1plWy4XCwE_-cuWvV-JWDCyEBTwSYES0M-mH1t41btQg/edit#gid=0)***
+***[Ссылка на гугл-таблицу с чек-листами](https://docs.google.com/spreadsheets/d/1plWy4XCwE_-cuWvV-JWDCyEBTwSYES0M-mH1t41btQg/edit#gid=0)***
