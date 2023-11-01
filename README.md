@@ -15,4 +15,4 @@ ___
 
 ***[Ссылка на гугл-таблицу с чек-листами](https://docs.google.com/spreadsheets/d/1plWy4XCwE_-cuWvV-JWDCyEBTwSYES0M-mH1t41btQg/edit#gid=0)***
 
-***Ссылка на ключ для postman'а (автотестирование smoke всех доуступеых через API функций):*** https://api.postman.com/collections/30220849-662981ba-7e55-439a-b7cf-5a31ca21340e?access_key=PMAT-01HE57SG2M1CX8B0E0GXXSZ4D6
+***Ссылка на ключ для postman'а (автотестирование smoke всех доступных через API функций):*** https://api.postman.com/collections/30220849-662981ba-7e55-439a-b7cf-5a31ca21340e?access_key=PMAT-01HE57SG2M1CX8B0E0GXXSZ4D6
