@@ -1,5 +1,7 @@
 # Restful-Booker_Testing
 
+![title](https://github.com/OQASergey/Restful-Booker_Testing/raw/main/pics/title.jpg)
+
 Чек-листы и список багов для веб-сервиса бронирования отелей.
 
 В репозитории находятся следующие типы файлов:
