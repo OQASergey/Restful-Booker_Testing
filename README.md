@@ -6,7 +6,7 @@
 
 **Структура репозитория:**
 - API.html - файл с чек-листами
-- Bugs.mhtml - файл с баг-репортами (открывается через Microsoft Edge или Internet Explorer)
+- Bugs_n_Improvements.mhtml - файл с баг-репортами и улучшениями (открывается через Microsoft Edge или Internet Explorer)
 - README.md - файл с описанием проекта
 - /resources - папка с css-файлом стилей для API.html
 - /pics - папка с изображениями для файла README.md
